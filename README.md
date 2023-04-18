@@ -12,17 +12,17 @@ Requirements
 Project Structure
 -----------------
 
--   ChatBotFunction
--   -   __init__.py
--   -   function.json
--   ChatVoiceFunction
--   -   __init__.py
--   -   function.json
--   getting_started_with_azure_functions.md
--   requirements.txt
--   openaiapikey.txt
--   elevenlabsapikey.txt
--   chatbot.txt
+-   `ChatBotFunction`
+-   -   `__init__.py`
+-   -   `function.json`
+-   `ChatVoiceFunction`
+-   -   `__init__.py`
+-   -   `function.json`
+-   `getting_started_with_azure_functions.md`
+-   `requirements.txt`
+-   `openaiapikey.txt`
+-   `elevenlabsapikey.txt`
+-   `chatbot.txt`
 
 ### Function Folders
 
