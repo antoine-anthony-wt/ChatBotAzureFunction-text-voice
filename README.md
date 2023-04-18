@@ -12,8 +12,6 @@ Requirements
 Project Structure
 -----------------
 
-
-`
 ├── ChatBotFunction
 │   ├── __init__.py
 │   └── function.json
@@ -24,7 +22,7 @@ Project Structure
 ├── requirements.txt
 ├── openaiapikey.txt
 ├── elevenlabsapikey.txt
-└── chatbot.txt`
+└── chatbot.txt
 
 ### Function Folders
 
