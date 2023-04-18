@@ -77,6 +77,13 @@ Usage
 -   `ChatBotFunction`: Send a POST request with a JSON payload containing the `user_input` key to interact with the text chatbot.
 -   `ChatVoiceFunction`: Send a POST request with a JSON payload containing the `text_completion` key to get the voice response for the given text.
 
+Supporting API Docs
+------------
+
+-   ChatGPT API Docs: https://platform.openai.com/docs/guides/chat
+-   ElevenLabs API Docs: https://api.elevenlabs.io/docs
+
+
 Contributing
 ------------
 
