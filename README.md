@@ -13,7 +13,7 @@ Project Structure
 -----------------
 
 
-`.
+`
 ├── ChatBotFunction
 │   ├── __init__.py
 │   └── function.json
