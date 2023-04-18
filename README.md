@@ -12,7 +12,6 @@ Requirements
 Project Structure
 -----------------
 
-javascriptCopy code
 
 `.
 ├── ChatBotFunction
@@ -45,8 +44,6 @@ Setup
 
 1.  Install the required Python packages by running:
 
-shCopy code
-
 `pip install -r requirements.txt`
 
 1.  Add your OpenAI API key to the `openaiapikey.txt` file.
@@ -57,21 +54,15 @@ Running the Functions Locally
 
 1.  Start the Azure Functions Core Tools by running:
 
-shCopy code
-
 `func start`
 
 1.  Test the `ChatBotFunction` by sending a POST request to `http://localhost:7071/api/ChatBotFunction` with a JSON payload containing the `user_input` key. For example:
-
-jsonCopy code
 
 `{
   "user_input": "Tell me a joke."
 }`
 
 1.  Test the `ChatVoiceFunction` by sending a POST request to `http://localhost:7071/api/ChatVoiceFunction` with a JSON payload containing the `text_completion` key. For example:
-
-jsonCopy code
 
 `{
   "text_completion": "This is a test text for the chatbot."
